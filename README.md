@@ -52,6 +52,16 @@ I'm a passionate full-stack developer and tech enthusiast who loves building coo
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Aiven 🛍️](https://github.com/vny-rdy/aiven) | AI-powered modern e-commerce app like Amazon/Flipkart | React, Node.js, MongoDB, Tailwind, OpenAI |
+| [FoodZone 🍔](https://github.com/vny-rdy/foodzone) | Food delivery web app with real-time tracking & OTP login | React, Node.js, Twilio, Google Auth, Razorpay |
+| [FFmpeg Tools 🎧](https://github.com/vny-rdy/ffmpeg-audio-tools) | Convert, trim, download audio files with FFmpeg CLI + Web UI | Node.js, FFmpeg, Express |
+
+---
+
 ## 📫 How to reach me
 - 📧 Email: [vnyrdy.dev@gmail.com](mailto:vnyrdy.dev@gmail.com)
 - 🐦 Twitter: [@vnyrdy](https://twitter.com/vnyrdy)
@@ -105,6 +115,14 @@ I like turning random ideas into real apps overnight 🌙✨ — caffeine is my 
       media="(prefers-color-scheme: dark)" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vny-rdy&layout=compact&langs_count=8" alt="Top Languages" />
   </picture>
+</p>
+
+---
+
+## 🎧 Now Playing on Spotify
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" />
 </p>
 
 ---
