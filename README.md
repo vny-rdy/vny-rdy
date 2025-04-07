@@ -12,8 +12,8 @@ I'm a passionate full-stack developer and tech enthusiast who loves building coo
 ---
 
 ## 👀 I’m interested in
-- 🧠 AI & Machine Learning
 - 💻 Web Development (React, Node.js, MongoDB)
+- 🧠 AI & Machine Learning
 - 📱 Mobile Apps
 - 🚀 Startups & Product Development
 - 🎮 Game Dev (Unity, Unreal - experimenting stage)
@@ -21,8 +21,8 @@ I'm a passionate full-stack developer and tech enthusiast who loves building coo
 ---
 
 ## 🌱 I’m currently learning
-- 🤖 Generative AI APIs (ChatGPT, Gemini, Claude)
 - 🕸️ Advanced React patterns & performance optimization
+- 🤖 Generative AI APIs (ChatGPT, Gemini, Claude)
 - 🐳 Docker & DevOps basics
 - 🧪 Unit & E2E testing (Jest, Cypress)
 
@@ -44,11 +44,14 @@ I'm a passionate full-stack developer and tech enthusiast who loves building coo
 ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge)
 ![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?logo=razorpay&logoColor=00aff0&style=for-the-badge)
+![PayPal](https://img.shields.io/badge/-PayPal-00457C?logo=paypal&logoColor=fff&style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-10253F?logo=python&logoColor=F7931E&style=for-the-badge)
+![LLM](https://img.shields.io/badge/-LLM%20(Generative%20AI)-FA7070?logo=openai&logoColor=fff&style=for-the-badge)
+
 
 ---
 
@@ -56,16 +59,17 @@ I'm a passionate full-stack developer and tech enthusiast who loves building coo
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Aiven 🛍️](https://github.com/vny-rdy/aiven) | AI-powered modern e-commerce app like Amazon/Flipkart | React, Node.js, MongoDB, Tailwind, OpenAI |
-| [FoodZone 🍔](https://github.com/vny-rdy/foodzone) | Food delivery web app with real-time tracking & OTP login | React, Node.js, Twilio, Google Auth, Razorpay |
-| [FFmpeg Tools 🎧](https://github.com/vny-rdy/ffmpeg-audio-tools) | Convert, trim, download audio files with FFmpeg CLI + Web UI | Node.js, FFmpeg, Express |
+| [Course Website 📚](https://github.com/TWODVINAY/TWOD_Tutorial_Web_Application.git) | An online course platform with modern UI & secure auth | React, Node.js, PayPal, Tailwind CSS |
+| [Recipe Meal Planner 🧑‍🍳](https://github.com/vny-rdy/recipe-meal-planner) | Plan meals, find recipes, and track nutrition easily | React, Node.js, MongoDB, Tailwind CSS |
+| Aiven 🛍️ *(Coming Soon)* | AI-powered modern e-commerce platform like Amazon/Flipkart | React, Node.js, MongoDB, Tailwind, OpenAI |
 
 ---
 
 ## 📫 How to reach me
-- 📧 Email: [vnyrdy.dev@gmail.com](mailto:vnyrdy.dev@gmail.com)
-- 🐦 Twitter: [@vnyrdy](https://twitter.com/vnyrdy)
-- 💼 LinkedIn: [linkedin.com/in/vny-rdy](https://linkedin.com/in/vny-rdy)
+- 📧 Email: [vinayreddykoukuntla.com](mailto:vinayreddykoukuntla.com)
+- 💼 LinkedIn: [Koukuntla Vinay Reddy](https://www.linkedin.com/in/koukuntla-vinay-reddy-b606871b0/)
+- 🌐 Portfolio: [vnyrdy.portfolio](https://react-portfolio-navy-kappa.vercel.app/)
+
 
 ---
 
@@ -122,7 +126,7 @@ I like turning random ideas into real apps overnight 🌙✨ — caffeine is my 
 ## 🎧 Now Playing on Spotify
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31g6suh3erqshhu3htulohgczkvq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" />
 </p>
 
 ---
