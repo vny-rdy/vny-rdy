@@ -123,11 +123,12 @@ I like turning random ideas into real apps overnight 🌙✨ — caffeine is my 
 
 ---
 
-## 🎧 Now Playing on Spotify
-
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31g6suh3erqshhu3htulohgczkvq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
+
+
+
 
 ---
 
