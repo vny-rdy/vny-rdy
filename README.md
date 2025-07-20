@@ -60,7 +60,7 @@ I'm a passionate full-stack developer and tech enthusiast who loves building coo
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [Cricket Auction Website 🏏](https://github.com/vny-rdy/Cricket-Bidding-Website.git) <br/> [🔗 Live Site](https://cricbid.sytes.net) | Real‑time IPL auction platform featuring live bidding, admin/user dashboards, avatar-based emotes, team creation, and full auction control. | React, Node.js, MongoDB, Socket.io, Tailwind CSS, Framer Motion |
-| [Course Website 📚](https://github.com/TWODVINAY/TWOD_Tutorial_Web_Application.git) <br/> [🔗 Live Site](https://twod-tutorial-web-application-nine.vercel.app/) | A responsive online course platform with secure authentication, modern UI, and integrated PayPal payments. | React, Node.js, PayPal, Tailwind CSS |
+| [Course Website 📚](https://github.com/vny-rdy/TWOD_Tutorial_Web_Application.git) <br/> [🔗 Live Site](https://twod-tutorial-web-application-nine.vercel.app/) | A responsive online course platform with secure authentication, modern UI, and integrated PayPal payments. | React, Node.js, PayPal, Tailwind CSS |
 | [Recipe Meal Planner 🧑‍🍳](https://github.com/vny-rdy/RecipeMealPlanner.git) <br/> [🔗 Live Site](https://recipe-meal-planner.vercel.app/) | Plan meals, explore personalized recipes, and track nutrition with ease. Clean UI and smooth user experience. | React, Node.js, MongoDB, Tailwind CSS |
 | **Aiven 🛍️ (Coming Soon)** | AI-powered modern e-commerce platform like Amazon/Flipkart with advanced search and personalization. | React, Node.js, MongoDB, Tailwind CSS, OpenAI |
 
