@@ -57,12 +57,30 @@ I'm a passionate full-stack developer and tech enthusiast who loves building coo
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Cricket Auction Website 🏏](https://github.com/vny-rdy/Cricket-Bidding-Website.git) <br/> [🔗 Live Site](https://cricbid.sytes.net) | Real‑time IPL auction platform featuring live bidding, admin/user dashboards, avatar-based emotes, team creation, and full auction control. | React, Node.js, MongoDB, Socket.io, Tailwind CSS, Framer Motion |
-| [Course Website 📚](https://github.com/vny-rdy/TWOD_Tutorial_Web_Application.git) <br/> [🔗 Live Site](https://twod-tutorial-web-application-nine.vercel.app/) | A responsive online course platform with secure authentication, modern UI, and integrated PayPal payments. | React, Node.js, PayPal, Tailwind CSS |
-| [Recipe Meal Planner 🧑‍🍳](https://github.com/vny-rdy/RecipeMealPlanner.git) <br/> [🔗 Live Site](https://recipe-meal-planner.vercel.app/) | Plan meals, explore personalized recipes, and track nutrition with ease. Clean UI and smooth user experience. | React, Node.js, MongoDB, Tailwind CSS |
-| **Aiven 🛍️ (Coming Soon)** | AI-powered modern e-commerce platform like Amazon/Flipkart with advanced search and personalization. | React, Node.js, MongoDB, Tailwind CSS, OpenAI |
+### 🏏 [Cricket Auction Website](https://github.com/vny-rdy/Cricket-Bidding-Website.git)  
+🔗 [Live Site](https://cricbid.sytes.net)  
+**Tech Stack:** React, Node.js, MongoDB, Socket.io, Tailwind CSS, Framer Motion  
+Real-time IPL-style bidding platform with fully functional admin and user dashboards. Features include live auctions, team creation, avatar-based emotes, RTM logic, and full auction control.
+
+---
+
+### 📚 [Course Website](https://github.com/vny-rdy/TWOD_Tutorial_Web_Application.git)  
+🔗 [Live Site](https://twod-tutorial-web-application-nine.vercel.app/)  
+**Tech Stack:** React, Node.js, Tailwind CSS, PayPal  
+A responsive and secure online course platform with user authentication, PayPal payments, and a clean modern UI.
+
+---
+
+### 🧑‍🍳 [Recipe Meal Planner](https://github.com/vny-rdy/RecipeMealPlanner.git)  
+🔗 [Live Site](https://recipe-meal-planner.vercel.app/)  
+**Tech Stack:** React, Node.js, MongoDB, Tailwind CSS  
+Helps users plan meals, discover personalized recipes, and track nutrition. Built with a user-first interface and mobile-responsive design.
+
+---
+
+### 🛍️ **Aiven (Coming Soon)**  
+**Tech Stack:** React, Node.js, MongoDB, Tailwind CSS, OpenAI  
+AI-powered modern e-commerce platform inspired by Amazon/Flipkart. Features will include sketch-based and multimodal search, AI recommendations, group shopping, and virtual try-ons.
 
 ---
 
