@@ -58,7 +58,7 @@ I'm a passionate full-stack developer and tech enthusiast who loves building coo
 ## 🚀 Featured Projects
 
 ### 🏏 [Cricket Auction Website](https://github.com/vny-rdy/Cricket-Bidding-Website.git)  
-🔗 [Live Site](https://cricbid.sytes.net)  
+🔗 [Live Site](https://https://cricket-bidding-website.vercel.app/)  
 **Tech Stack:** React, Node.js, MongoDB, Socket.io, Tailwind CSS, Framer Motion  
 Real-time IPL-style bidding platform with fully functional admin and user dashboards. Features include live auctions, team creation, avatar-based emotes, RTM logic, and full auction control.
 
