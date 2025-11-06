@@ -56,20 +56,20 @@ I'm a passionate full-stack developer and tech enthusiast who loves building coo
 ---
 
 ## 🚀 Featured Projects
-
-### 🏏 [Cricket Auction Website](https://github.com/vny-rdy/Cricket-Bidding-Website.git)  
-🔗 [Live Site](https://https://cricket-bidding-website.vercel.app/)  
-**Tech Stack:** React, Node.js, MongoDB, Socket.io, Tailwind CSS, Framer Motion  
-Real-time IPL-style bidding platform with fully functional admin and user dashboards. Features include live auctions, team creation, avatar-based emotes, RTM logic, and full auction control.
-
----
-
 ### 📚 [Course Website](https://github.com/vny-rdy/TWOD_Tutorial_Web_Application.git)  
 🔗 [Live Site](https://twod-tutorial-web-application-nine.vercel.app/)  
 **Tech Stack:** React, Node.js, Tailwind CSS, PayPal  
 A responsive and secure online course platform with user authentication, PayPal payments, and a clean modern UI.
 
 ---
+
+### 🏏 [Cricket Auction Website](https://github.com/vny-rdy/Cricket-Bidding-Website.git)  
+🔗 [Live Site](https://cricket-bidding-website.vercel.app/)  
+**Tech Stack:** React, Node.js, MongoDB, Socket.io, Tailwind CSS, Framer Motion  
+Real-time IPL-style bidding platform with fully functional admin and user dashboards. Features include live auctions, team creation, avatar-based emotes, RTM logic, and full auction control.
+
+---
+
 
 ### 🧑‍🍳 [Recipe Meal Planner](https://github.com/vny-rdy/RecipeMealPlanner.git)  
 🔗 [Live Site](https://recipe-meal-planner.vercel.app/)  
